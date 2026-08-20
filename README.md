@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Self-taught systems &amp; AI developer</b><br>
-  BS Electronics &amp; Computer Engineering undergraduate · Philippines
+  BS Electronics Engineering undergraduate · Philippines
 </p>
 
 ---
