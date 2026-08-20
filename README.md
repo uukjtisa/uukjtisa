@@ -15,7 +15,7 @@ through them, reading documentation and source instead of watching along.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **[systema-auxilium](https://github.com/uukjtisa/systema-auxilium)** | AI desktop assistant that runs real actions from plain language — multi-provider LLM engine, live Python sandbox, voice mode, Discord + Android companion | Python · PyQt6 |
+| **[systema-auxilium](https://github.com/uukjtisa/systema-auxilium)** | AI desktop assistant that runs real actions from plain language — multi-provider LLM engine, live Python sandbox, voice mode, skills/memory, Android companion | Python · PyQt6 |
 | **[updater-gitplucker](https://pypi.org/project/updater-gitplucker/)** | Pluggable GitHub auto-updater library, published on PyPI — zero-dependency core, network allowlist, 3-way merge | Python · MIT |
 | **[8fork](https://github.com/uukjtisa/8fork)** | A full social platform written from scratch in C++ on raw Winsock — its own HTTP server, role-based moderation, terminal admin panel | C++ |
 | **[localTransfer.io](https://github.com/uukjtisa/localTransfer.io)** | Self-hosted LAN file-sharing server — browser drop UI, mDNS discovery, storage caps | C++ |
