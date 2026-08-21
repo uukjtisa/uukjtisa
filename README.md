@@ -1,4 +1,4 @@
-<h1 align="center">Nicanor Cariasa III</h1>
+<h1 align="center">Nicanor III W. Cariasa</h1>
 
 <p align="center">
   <b>Self-taught systems &amp; AI developer</b><br>
