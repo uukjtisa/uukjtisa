@@ -8,8 +8,8 @@
 ---
 
 I build complete, working software solo — desktop apps, raw C++ servers, and
-embedded hardware. No tutorials: I pick problems I want solved and build my way
-through them, reading documentation and source instead of watching along.
+embedded hardware. I learn by building: I pick problems I want solved and work
+through them hands-on, with the documentation and the source open beside me.
 
 ### Featured work
 
