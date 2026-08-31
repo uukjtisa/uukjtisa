@@ -145,8 +145,6 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 
 ## The portfolio
 
-Every project above is a repo you can clone and read.
-
 <a href="https://nicanoriiicariasa-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/portfolio-card.png" width="780" alt="nicanoriiicariasa-portfolio.vercel.app"></a>
 
 <br>
