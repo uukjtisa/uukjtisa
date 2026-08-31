@@ -129,18 +129,6 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 
 ---
 
-## Right now
-
-- **Studying** — 1st year, BS Electronics Engineering at Marikina Polytechnic College
-- **Building** — Trawl, and an ESP32 lighting system with its own firmware and Kotlin app
-- **Maintaining** — Systema Auxilium and `updater-gitplucker`
-
-> [!NOTE]
-> College comes first — but I'm open to select freelance and internship work where
-> I can contribute real code.
-
----
-
 <div align="center">
 
 ## The portfolio
