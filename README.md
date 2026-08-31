@@ -139,9 +139,9 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 
 ### Open for work
 
-Freelance or internship. Desktop apps, C++ services, Android clients, ESP32 firmware —
-the same things whose source you can read above.<br>
-I'm studying full time, so I take one or two projects at a time and see them through.
+Freelance or internship — desktop apps, C++ services, Android clients, ESP32 firmware.<br>
+The source for every one of those is on this page, not just a claim about it.<br>
+Studying full time, so I take one or two projects at a time and see them through.
 
 <br>
 
