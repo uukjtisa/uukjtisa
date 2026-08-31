@@ -126,6 +126,7 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 </p>
 
 </div>
+
 ---
 
 ## Right now
