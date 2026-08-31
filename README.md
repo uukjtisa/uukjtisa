@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/avatar.png" width="150" alt="Nicanor III W. Cariasa">
+<img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/signature.png" width="150" alt="Nicanor III W. Cariasa">
 
 # Nicanor III W. Cariasa
 
@@ -145,8 +145,7 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 
 ## The portfolio
 
-Every project above is a repo you can clone and read.<br>
-The site puts them together, with screenshots of each one actually running.
+Every project above is a repo you can clone and read.
 
 <a href="https://nicanoriiicariasa-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/portfolio-card.png" width="780" alt="nicanoriiicariasa-portfolio.vercel.app"></a>
 
