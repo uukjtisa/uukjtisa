@@ -137,6 +137,14 @@ Composable text and file obfuscation toolkit with a GUI and seeded keyfiles.<br>
 
 <br>
 
+### Open for work
+
+Freelance or internship. Desktop apps, C++ services, Android clients, ESP32 firmware —
+the same things whose source you can read above.<br>
+I'm studying full time, so I take one or two projects at a time and see them through.
+
+<br>
+
 <a href="https://nicanoriiicariasa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Visit%20the%20portfolio-D69248?style=for-the-badge&logo=vercel&logoColor=241A12" alt="Visit the portfolio"></a>
 &nbsp;
 <a href="mailto:trescariasa2007@gmail.com"><img src="https://img.shields.io/badge/trescariasa2007%40gmail.com-241A12?style=for-the-badge&logo=gmail&logoColor=EE9B5F" alt="trescariasa2007@gmail.com"></a>
