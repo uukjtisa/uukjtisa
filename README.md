@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/signature.png" width="150" alt="Nicanor III W. Cariasa">
+<img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/brand-mark.png" width="150" alt="Nicanor III W. Cariasa">
 
-# Nicanor III W. Cariasa
+<img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/name-card.png" width="430" alt="Nicanor III W. Cariasa — systems and AI developer">
 
-**Self-taught systems &amp; AI developer**<br>
 BS Electronics Engineering undergraduate · Marikina Polytechnic College · Philippines
 
 <a href="https://nicanoriiicariasa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-D69248?style=for-the-badge&logo=vercel&logoColor=241A12" alt="Portfolio"></a>
