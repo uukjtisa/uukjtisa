@@ -22,10 +22,10 @@ through them hands-on, with the documentation and the source open beside me.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/90k%2B-lines%20in%20the%20flagship%20app-241A12?style=flat-square&labelColor=D69248" alt="90k+ lines">
+<img src="https://img.shields.io/badge/290k%2B-lines%20written-241A12?style=flat-square&labelColor=D69248" alt="290k+ lines written">
 <img src="https://img.shields.io/badge/12%2B-projects%20shipped-241A12?style=flat-square&labelColor=D69248" alt="12+ projects">
 <img src="https://img.shields.io/badge/6-languages%20in%20use-241A12?style=flat-square&labelColor=D69248" alt="6 languages">
-<img src="https://img.shields.io/badge/1-library%20on%20PyPI-241A12?style=flat-square&labelColor=D69248" alt="1 library on PyPI">
+<img src="https://img.shields.io/badge/94k%2B-in%20the%20flagship%20AI%20app-241A12?style=flat-square&labelColor=D69248" alt="94k+ in the flagship AI app">
 
 </div>
 
