@@ -13,13 +13,13 @@
 
 ---
 
-I build complete, working software solo — desktop apps, raw C++ servers, and
-embedded hardware. I learn by building: I pick problems I want solved and work
+I build complete, working software solo — desktop and Android apps, raw C++ servers,
+and embedded hardware. I learn by building: I pick problems I want solved and work
 through them hands-on, with the documentation and the source open beside me.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/290k%2B-lines%20written-241A12?style=flat-square&labelColor=D69248" alt="290k+ lines written">
+<img src="https://img.shields.io/badge/390k%2B-lines%20written-241A12?style=flat-square&labelColor=D69248" alt="390k+ lines written">
 <img src="https://img.shields.io/badge/12%2B-projects%20shipped-241A12?style=flat-square&labelColor=D69248" alt="12+ projects">
 <img src="https://img.shields.io/badge/6-languages%20in%20use-241A12?style=flat-square&labelColor=D69248" alt="6 languages">
 <img src="https://img.shields.io/badge/94k%2B-in%20the%20flagship%20AI%20app-241A12?style=flat-square&labelColor=D69248" alt="94k+ in the flagship AI app">
@@ -31,6 +31,20 @@ through them hands-on, with the documentation and the source open beside me.
 ## Featured work
 
 <table>
+<tr>
+<td width="58" align="center"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/icons/filet.png" width="42" alt=""></td>
+<td><b><a href="https://github.com/uukjtisa/filet">Filet</a></b><br>
+Android file manager where every backend — internal storage, archives, APKs, SMB, SFTP, FTP, WebDAV — sits behind one virtual filesystem. Whole-device search in milliseconds, edit inside archives and APKs, Lua scripting, share to any browser on the network.<br>
+<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>GPL-3.0</code></sub></td>
+</tr>
+
+<tr>
+<td width="58" align="center"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/icons/trawl.png" width="42" alt=""></td>
+<td><b><a href="https://github.com/uukjtisa/trawl">Trawl</a></b><br>
+Android media downloader — a personal fork of <a href="https://github.com/MaheshTechnicals/Sealplus">Seal Plus</a>, itself a fork of <a href="https://github.com/JunkFood02/Seal">Seal</a>. Adds its own resolvers for four sites and for links that are already media files, and falls back to yt-dlp when they come up empty. Early development.<br>
+<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>GPL-3.0</code></sub></td>
+</tr>
+
 <tr>
 <td width="58" align="center"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/icons/systema-auxilium.png" width="42" alt=""></td>
 <td><b><a href="https://github.com/uukjtisa/systema-auxilium">systema-auxilium</a></b><br>
@@ -50,13 +64,6 @@ Pluggable GitHub auto-updater library, published on PyPI — zero-dependency cor
 <td><b><a href="https://github.com/uukjtisa/8fork">8fork</a></b><br>
 A full social platform written from scratch in C++ on raw Winsock — its own HTTP server, role-based moderation, terminal admin panel.<br>
 <sub><code>C++</code></sub></td>
-</tr>
-
-<tr>
-<td width="58" align="center"><img src="https://raw.githubusercontent.com/uukjtisa/uukjtisa/main/assets/icons/trawl.png" width="42" alt=""></td>
-<td><b><a href="https://github.com/uukjtisa/trawl">Trawl</a></b><br>
-Android media downloader — a personal fork of <a href="https://github.com/MaheshTechnicals/Sealplus">Seal Plus</a>, itself a fork of <a href="https://github.com/JunkFood02/Seal">Seal</a>. Adds its own resolvers for four sites and for links that are already media files, and falls back to yt-dlp when they come up empty. Early development.<br>
-<sub><code>Kotlin</code> · <code>Jetpack Compose</code> · <code>GPL-3.0</code></sub></td>
 </tr>
 
 <tr>
